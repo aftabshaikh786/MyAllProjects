@@ -1,0 +1,1 @@
+this is a Static Traveling WebApplication made using Html,Css,Javascript Only 
